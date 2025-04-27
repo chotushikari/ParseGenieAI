@@ -31,7 +31,51 @@ ParserGenie is an AI-powered Image-to-Text web app designed for a futuristic, fr
 - ✔️ **Text-to-Speech output** for accessibility and engagement
 
 ---
+## 📸 App Screenshots
 
+### 🏠 Home Page
+<p align="center">
+  <img src="assets/Screenshot1.png" alt="Home Page" width="80%" />
+</p>
+
+---
+
+### 🖼️ Image Upload & OCR Extraction
+<p align="center">
+  <img src="assets/Screenshot3" alt="OCR Extraction" width="80%" />
+</p>
+
+---
+
+### ✍️ AI Caption Generator
+<p align="center">
+  <img src="assets/Screenshot10.png" alt="Caption Generator" width="80%" />
+</p>
+
+---
+
+### 🌐 Translation Feature
+<p align="center">
+  <img src="assets/Screenshot9.png" alt="Translation" width="80%" />
+</p>
+
+---
+
+### ✨ Summarization Output
+<p align="center">
+  <img src="assets/Screenshot5.png" alt="Summarization" width="80%" />
+</p>
+
+---
+
+### 🔊 Text-to-Speech Narration
+<p align="center">
+  <img src="assets/Screenshot6.png" alt="Text-to-Speech" width="80%" />
+</p>
+
+
+
+---
 ## 🎯 What Makes It Unique?
 
 - **AI-Powered Functions**  
