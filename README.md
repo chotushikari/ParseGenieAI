@@ -11,7 +11,7 @@ ParserGenie is an AI-powered Image-to-Text web app designed for a futuristic, fr
 
 ## 🚀 Live Demo
 
-🔗 [ParserGenie AI Live Demo](https://parsergenie.app/)  
+🔗 [ParserGenie AI Live Demo]((https://parsergenie.netlify.app/))  
 
 ---
 
