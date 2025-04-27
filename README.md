@@ -11,7 +11,7 @@ ParserGenie is an AI-powered Image-to-Text web app designed for a futuristic, fr
 
 ## 🚀 Live Demo
 
-🔗 [ParserGenie AI Live Demo]([(https://parsergenie.netlify.app/)])  
+🔗 [ParserGenie AI Live Demo](https://parsergenie.netlify.app/)  
 
 ---
 
@@ -131,7 +131,7 @@ The **KendoReact Free Components Challenge** encouraged us to explore AI integra
 
 ## 📂 GitHub Repository
 
-🔗 [GitHub - ParserGenie AI]([https://github.com/chotushikari/ParserGenieAI.git])
+🔗 [GitHub - ParserGenie AI](https://github.com/chotushikari/ParserGenieAI.git)
 
 ---
 
