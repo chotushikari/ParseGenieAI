@@ -42,17 +42,19 @@ ParserGenie is an AI-powered Image-to-Text web app designed for a futuristic, fr
 
 ### 🖼️ Image Upload 
 <p align="center">
-  <img src="assets/Screenshot2" alt="OCR Extraction" width="80%" />
-  <img src="assets/Screenshot3" alt="OCR Extraction" width="80%" />
+  <img src="assets/Screenshot2.png" alt="Image Upload" width="80%" />
+  <img src="assets/Screenshot3.png" alt="Image Upload" width="80%" />
 </p>
 
 ---
 
 ### 🖼️ OCR Extraction
 <p align="center">
-  <img src="assets/Screenshot4" alt="OCR Extraction" width="80%" />
+  <img src="assets/Screenshot4.png" alt="OCR Extraction" width="80%" />
 </p>
+
 ---
+
 
 ### ✨ Summarization Output
 <p align="center">
