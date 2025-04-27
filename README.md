@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/screenshotbanner.png" alt="ParserGenie Banner" width="100%" />
+  <img src="assets/Screenshotbanner.png" alt="ParserGenie Banner" width="100%" />
 </p>
 
 
